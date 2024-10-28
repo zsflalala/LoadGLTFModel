@@ -15,7 +15,7 @@ GLAD
 
 ### nuget环境配置
 
-#### 配置D:/vc_package
+#### 配置D:/vc_packages
 
 在目录`C:\Users\$NAME\AppData\Roaming\NuGet`下新建`NuGet.Config`文件，内容如下
 
