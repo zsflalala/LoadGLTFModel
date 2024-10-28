@@ -49,3 +49,11 @@ GLAD
 </configuration>
 ```
 
+## Reference
+
+1. [GLTF的文件结构解读，由浅入深版](https://blog.csdn.net/qq_51802524/article/details/141788273)
+
+
+
+
+
